@@ -353,6 +353,12 @@ This integration adds the Blebox device as a sensor entity to Home Assistant.
 
 - Periodic read of current wind speed
 
+### floodSensor
+This integration adds the Blebox device as a sensor entity to Home Assistant.
+
+### Key supported features
+- Readings of the timestamp of the beginning of the last flood and the duration of the last flood in seconds.
+
 ------
 
 ## "BleBox inside" controllers
